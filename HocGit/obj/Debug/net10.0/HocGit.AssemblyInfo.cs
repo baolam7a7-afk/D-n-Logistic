@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HocGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97b31a6693abb5a6185b0f3795592333bdbc7471")]
 [assembly: System.Reflection.AssemblyProductAttribute("HocGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HocGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
