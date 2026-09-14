@@ -1,1 +1,1 @@
-System.Console.WriteLine("hello lam bao lam và bình   ");
+System.Console.WriteLine("hello lam bao lam và bình đây là hình nahr    ");
