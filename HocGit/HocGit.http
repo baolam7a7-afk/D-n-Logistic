@@ -1,0 +1,6 @@
+@HocGit_HostAddress = http://localhost:5209
+
+GET {{HocGit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
